@@ -1,0 +1,7 @@
+- Begin by executing the Visualize.bat script (assuming Anaconda is being used).
+- Upon execution, you will be prompted to provide the following inputs:
+  1. The name of the Excel file containing the data you wish to visualize.
+  2. Select the worksheet from the Excel file that you want to visualize.
+  3. Choose the type of chart you want to generate (options include Line Chart, Bar Chart, or Pie Chart).
+- The resulting visualization will be stored in the "images" folder.
+- Each new execution will generate additional images in the "images" folder and append them as new slides to the presentation.
